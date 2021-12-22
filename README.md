@@ -3,7 +3,6 @@ A custom-crafted superhero search engine to know your superhero better!
 Made with love using HTML + CSS + VanillaJS + FontAwesome(for icons)
 
 ## API Used: https://superheroapi.com/?ref=apilist.fun
-## Website Link: https://rahulsups.github.io/superhero-hunter/index.html
 
 ## Components:
 ### Home Page
